@@ -14,7 +14,7 @@ From this analysis, we can address the following questions:
      ![5-star_reviews](Resources/5-star_reviews.png)
      ![unpaid_5-star_reviews](Resources/unpaid_5-star_reviews.png)
      * The percentage for paid 5-star reviews is 37% and 62% for unpaid 5-star reviews.
-     ![percentage_5-star_reviews](Resources/percentage_5-star_reviews.png)
+     ![percentage_paid_5-star_reviews](Resources/percentage_paid_5-star_reviews.png)
      ![percentage_unpaid_5-star_reviews](Resources/percentage_unpaid_5-star_reviews.png)
      
       
